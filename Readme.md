@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Babu</h1>
 <h3 align="center">A graduate student at Khoury College of Computer Sciences, Northeastern University Boston</h3>
 
-- 🌱 I’m currently learning **Pandas,Pyspark,Python,AI**
+- 🌱 I’m currently learning **Java,JUnit,Pandas,Pyspark,Python,AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paulbabu1999](https://github.com/paulbabu1999)
 
