@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paul Babu</h1>
 <h3 align="center">A graduate student at Khoury College of Computer Sciences, Northeastern University Boston</h3>
 
-- 🌱 I’m currently learning **Java,JUnit and Python **
+- 🌱 I’m currently learning **Java,JUnit and Python. **
 
 - 👨‍💻 All of my projects are available at [https://github.com/paulbabu1999](https://github.com/paulbabu1999)
 
-- 💬 Ask me about **Programing Design Paradigms, Data interpolation, DataBase Management System**
+- 💬 Ask me about **Programing Design Paradigms, Data interpolation, DataBase Management Systems.**
 
 - 📫 How to reach me **paulbabu.1999@gmail.com**
 
