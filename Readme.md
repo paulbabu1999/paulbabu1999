@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/paulbabu1999](https://github.com/paulbabu1999)
 
-- 💬 Ask me about **Programing Design Paradigms, Data interpolation**
+- 💬 Ask me about **Programing Design Paradigms, Data interpolation, DataBase Management System**
 
 - 📫 How to reach me **paulbabu.1999@gmail.com**
 
