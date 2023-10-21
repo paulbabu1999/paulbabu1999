@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Programing Design Paradigms, Data interpolation, DataBase Management Systems.**
 
-- 📫 How to reach me **paulbabu.1999@gmail.com**
+- 📫 How to reach me **paulpbabu.1999@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ploblablu/](https://www.linkedin.com/in/ploblablu/)
 
