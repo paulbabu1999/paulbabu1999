@@ -1,18 +1,26 @@
 <h1 align="center">Hi 👋, I'm Paul Babu</h1>
-<h3 align="center">A graduate student at Khoury College of Computer Sciences, Northeastern University Boston</h3>
+<h3 align="center">Data & AI Engineer | Specializing in Healthcare & Clinical Intelligence</h3>
 
-- 🌱 I’m currently learning **Java,JUnit and Python. **
+<p align="center">
+  <em>Creating scalable data foundations and AI agents that improve patient outcomes.</em>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/paulbabu1999](https://github.com/paulbabu1999)
+- 🏥 **Passion for Healthcare:** With 3+ years of experience , I specialize in engineering data systems that solve real clinical problems. My work spans from building **Learning Health Systems** and automating clinical triage at **Benchmark Health** to optimizing patient data pipelines at **Mass General Brigham** and supporting pharmaceutical analytics at **Johnson & Johnson** .
 
-- 💬 Ask me about **Programing Design Paradigms, Data interpolation, DataBase Management Systems.**
+- 🛠 **What I Build:** I have architected FHIR-compliant service requests , deployed AI clinical documentation engines that saved 2.5 hours per day for clinicians , and built enterprise data stacks from scratch using **Snowflake, dbt, and GCP** .
 
-- 📫 How to reach me **paulpbabu.1999@gmail.com**
+- 🔭 **Current Focus:** I am currently exploring advanced **AI Agents**, **LangGraph**, and **Vector Databases (Qdrant)** to further automate complex healthcare workflows .
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ploblablu/](https://www.linkedin.com/in/ploblablu/)
+- 💬 **Ask me about:** - **Clinical AI:** LLM-as-a-Judge, RAG pipelines, and Medplum (FHIR) integration .
+  - **Data Engineering:** Building star schema models, DAGs in Dagster, and scalable ETL pipelines .
 
-<h3 align="left">Connect with me:</h3>
+- 📫 **How to reach me:** [paulbabu.1999.usa@gmail.com](mailto:paulbabu.1999.usa@gmail.com) 
+
+- 📄 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ploblablu/) | [Portfolio](https://github.com/paulbabu1999) 
+
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
+  Python • Snowflake • GCP • dbt • Dagster • LangChain • PySpark • FHIR/Medplum
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
