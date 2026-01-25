@@ -16,7 +16,7 @@
 
 - 📫 **How to reach me:** [paulbabu.1999.usa@gmail.com](mailto:paulbabu.1999.usa@gmail.com) 
 
-- 📄 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ploblablu/) | [Portfolio](https://github.com/paulbabu1999) 
+- 📄 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ploblablu/) | [Portfolio](https://github.com/paulbabu1999](https://paulbabu1999.github.io/)) 
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
